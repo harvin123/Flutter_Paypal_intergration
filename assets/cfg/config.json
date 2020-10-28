@@ -1,0 +1,7 @@
+{
+    "domain": "https://api.sandbox.paypal.com",
+    "clientId": "AbjDHgHauGxLveJVzgQtvkKxWIAhfgO3T3LcnflCIqEy0J9XTzVKB5_7WlbjMfILzGc3YbpXuXc3xv0W",
+    "secret": "EK_neJHisbq4vpleKr8OmXNx-Bn05iQk0gsgXH0R346umN2ePRUn3eyLQdFPijtF7G1aDcLZPpwlt0Ip",
+    "accesstokenUrl": "https://api.sandbox.paypal.com/v1/oauth2/token?grant_type=client_credentials",
+    "createOrderUrl": "https://api.sandbox.paypal.com/v2/checkout/orders"
+}
